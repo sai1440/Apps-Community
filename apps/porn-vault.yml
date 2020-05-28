@@ -41,7 +41,7 @@
           - '/opt/appdata/{{pgrole}}/config:/config'
           - '/opt/appdata/{{pgrole}}/config:/config/config.json'
           - '/mnt/unionfs/Networks/Cum4K:/videos'
-          - '/mnt/unionfs/pornpics1:/pornpics1'
+          - '/mnt/unionfs/pornpics1:/images'
           - '/etc/localtime:/etc/localtime:ro'
 
     - name: 'Setting {{pgrole}} ENV'
