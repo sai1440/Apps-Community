@@ -40,7 +40,7 @@
         pg_volumes:
           - '/opt/appdata/{{pgrole}}/config:/config'
           - '/opt/appdata/{{pgrole}}/config:/config/config.json'
-          - '/mnt/unionfs/pornvids1:/pornvids1'
+          - '/mnt/unionfs/Networks/Cum4K:/pornvids1'
           - '/mnt/unionfs/pornvids2:/pornvids2'
           - '/mnt/unionfs/pornpics1:/pornpics1'
           - '/mnt/unionfs/pornpics2:/pornpics2'
